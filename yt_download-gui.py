@@ -1,6 +1,7 @@
 import tkinter as tk 
 from tkinter import *
-from pytube import YouTube 
+from pytube import YouTube
+from pytube import *
 from tkinter import messagebox, filedialog 
  
 def Widgets(): 
